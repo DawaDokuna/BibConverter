@@ -1,0 +1,13 @@
+[project]
+name = "bibconverter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pybtex==0.24.0",
+    "pybtex-apa7-style>=0.1.3",
+    "pyinstaller>=6.16.0",
+    "pyperclip>=1.10.0",
+    "setuptools>=80.9.0",
+]
